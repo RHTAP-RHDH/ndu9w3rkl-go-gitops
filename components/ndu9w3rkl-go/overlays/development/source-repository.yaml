@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ndu9w3rkl-go-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/ndu9w3rkl-go
